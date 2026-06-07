@@ -101,6 +101,8 @@ Calculated:
 
 Project-2-EDA/
 
+├── Screenshots/
+
 ├── Dataset/
 
 │ └── Dataset for Data Analytics(2).xlsx
